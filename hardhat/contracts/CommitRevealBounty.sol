@@ -4,7 +4,7 @@ pragma solidity ^0.8.20;
 /**
  * @title CommitRevealBounty
  * @author RafliRealm (Discord: arokmub)
- * @github https://github.com/RafliRealm/ritual-chain-workshop
+ * @custom:github https://github.com/RafliRealm/ritual-chain-workshop
  * @notice Privacy-preserving AI Bounty Judge using commit-reveal scheme.
  *         Answers stay hidden during submission phase; revealed only after
  *         submission deadline. AI (Ritual) judges all revealed answers in
